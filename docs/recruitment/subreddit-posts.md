@@ -21,16 +21,18 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 > Hey everyone! I'm Daniel, the Lead Developer at **JimmyTheHat Games**—a small, 5-person indie game studio supported by the Meniscus Maximus think tank. We're building **Driving Me Nuts**—a peanut food-truck racing game developed in TypeScript using HTML5 Canvas & WebGL. We're looking for passionate volunteers who want to gain real repository experience and work with our mentor-led team.
 > 
 > * 🚀 **The Project:** A high-energy, peanut-themed food-truck racing game.
-> * 🛠️ **Tech Stack:** Vanilla TypeScript, HTML5 Canvas / WebGL (Custom Engine).
+> * 🛠️ **Tech Stack:** Modern Web Stack (TypeScript, Vite, HTML5 Canvas/WebGL via Phaser 3). Perfect for web devs wanting to transition into games!
+> * 💰 **Compensation:** Unpaid/Portfolio Building, but includes **revenue-share splits** if side-projects (like *Men Eat PB* or *Yes Man*) are picked up by mobile publishers.
 > * 💼 **What you'd do:** Work on small, well-scoped tasks (e.g., power-up mechanics, UI widgets, bug fixes, 2D/3D sprite art, level design) with code review and guidance from me and our experienced devs.
 > * 👥 **Who we want:**
+>   * **UI/UX Artists (High Priority!):** We desperately need someone to help design clean, juicy interfaces for our mobile and web builds.
 >   * **Junior Developers:** Basic JS/TS knowledge. We will help you level up on Git, workflows, and clean code!
 >   * **2D / 3D Artists:** Help design food trucks, peanut characters, track hazards, and UI assets.
 >   * **Game Designers:** Help draft mechanics, track layouts, and write game design documents (GDD).
 > * ⏱️ **Commitment:** 5–10 hours/week (flexible, minimum 2-month commitment).
 > * 🔞 **Requirements:** Age 16+ (parental consent required under 18).
 > 
-> *This is a 100% volunteer/educational opportunity designed to help you build a portfolio and get real-world team experience. We can provide documentation for school credit.*
+> *This is a volunteer/educational opportunity designed to help you build a portfolio and get real-world team experience. We can provide documentation for school credit.*
 > 
 > * **Apply here:** https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
 > * **Project Preview Repo:** https://github.com/subtiliorars-sys/DrivingMeNuts---Preview
@@ -41,14 +43,14 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 
 ## 2. r/INAT (I Need A Team)
 
-**Title:** `[VOLUNTEER] Looking for Junior TS Devs, Artists & Designers for "Driving Me Nuts" (Peanut Food-Truck Racing Game)`
+**Title:** `[VOLUNTEER / REV-SHARE] Looking for Junior TS Devs, Artists & UI/UX Designers for "Driving Me Nuts" (Peanut Food-Truck Racing Game)`
 
 **Body:**
-> **Role(s) Available:** Junior Game Developer (TypeScript), Game Artist, Game Designer
-> **Compensation:** Unpaid Volunteer / Educational (Portfolio Building & Mentorship)
+> **Role(s) Available:** UI/UX Artist (High Priority), Junior Game Developer (TypeScript), Game Artist, Game Designer
+> **Compensation:** Unpaid Educational/Portfolio Building + Rev-Share on published titles
 > **Project Name:** Driving Me Nuts
 > **Project Type:** Web-based peanut food-truck racing game
-> **Tech Stack / Engine:** Custom TypeScript Engine (HTML5 Canvas & WebGL)
+> **Tech Stack / Engine:** TypeScript, Vite, HTML5 Canvas & WebGL (Phaser 3)
 > **Current Team Size:** 5-person indie team (JimmyTheHat Games)
 > **Commitment:** 5–10 hours per week (approx. 2 months minimum)
 > **Minimum Age:** 16+ (Parental consent required if under 18)
@@ -56,14 +58,15 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 > ---
 >
 > ### 🥜 About the Project
-> **Driving Me Nuts** is a wacky, fast-paced racing game where peanut characters drive food trucks. We are building it using a lightweight, custom TypeScript engine to keep it performant and highly customizable.
+> **Driving Me Nuts** is a wacky, fast-paced racing game where peanut characters drive food trucks. We are building it using a modern web stack (TypeScript, Vite) making it perfect for web devs looking to transition into game development.
 >
 > ### 🤝 Why Join Us?
 > I'm Daniel, the Lead Developer here at JimmyTheHat Games (supported by the Meniscus Maximus think tank). This is a structured, educational volunteer environment. You won't just be given vague instructions; we use structured issue tracking, Git workflows, and I provide **constructive code reviews** to help you level up your engineering, art, or design skills on a real, active 5-person team.
 >
 > * **Developers:** Gain experience with TypeScript, rendering loops, and professional Git workflow.
-> * **Artists:** Build a portfolio of game assets (vehicles, environment, UI) with a consistent art style.
+> * **Artists:** Build a portfolio of game assets (vehicles, environment, UI) with a consistent art style. **(We desperately need a UI/UX Artist right now!)**
 > * **Designers:** Help map out tracks, tune car physics/handling, and shape player experience.
+> * **Rev-Share:** While this cohort focuses on education and portfolio building, any of our side projects (like *Men Eat PB* or *Yes Man*) that get picked up by mobile publishers will include a revenue-share split for active contributors.
 >
 > ### 📝 How to Apply
 > Simply apply via our GitHub application template:
@@ -78,13 +81,13 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 
 ## 3. r/gameDevClassifieds
 
-**Title:** `[Volunteer] UI/Power-up Devs (TypeScript), 2D/3D Artists, & Designers Wanted for Peanut-Themed Racing Game`
+**Title:** `[Volunteer / Rev-Share] Desperately seeking UI/UX Artists, TS Devs, & 2D/3D Artists for Peanut-Themed Racing Game`
 
 **Body:**
-> **Type:** Volunteer / Educational (Unpaid)
-> **Disciplines:** Game Programming (TypeScript), 2D/3D Art, Game Design
+> **Type:** Volunteer / Educational (Unpaid) + Rev-Share on published titles
+> **Disciplines:** UI/UX Art (High Priority), Game Programming (TypeScript/Vite), 2D/3D Art, Game Design
 > **Project:** Driving Me Nuts (Peanut Food-Truck Web Racer)
-> **Tech Stack:** TypeScript, HTML5 Canvas / WebGL (Custom Engine)
+> **Tech Stack:** TypeScript, Vite, Phaser 3
 > **Hours Required:** 5–10 hours/week (Remote, Flexible)
 > **Age Requirements:** 16+ (Parental consent forms required for under 18)
 >
@@ -95,6 +98,7 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 > ### What We Offer:
 > * **Mentorship:** Hands-on code reviews and direct architectural guidance from me (Daniel, Lead Developer).
 > * **Industry Workflows:** Learn how to use Git, GitHub issues, pull requests, and standard development processes on a real, active 5-person team.
+> * **Rev-Share Opportunities:** If our side-projects (like *Men Eat PB*) get picked up by mobile publishers, contributors get a rev-share split.
 > * **Credit & Documentation:** We are happy to provide signed documentation of volunteer hours for school/course credit.
 >
 > ### How to Apply:
