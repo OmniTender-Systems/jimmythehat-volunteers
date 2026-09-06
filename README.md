@@ -1,10 +1,10 @@
-# JimmyTheHat Games - Volunteer Opportunities
+﻿# JimmyTheHat Games - Volunteer Opportunities
 
 **Build real games, gain experience, grow your portfolio.**
 
-We're looking for volunteer game developers to help with our racing game project. Perfect for students, beginners, and anyone passionate about game development.
+We're looking for volunteer game developers to help with our idle business simulation project. Perfect for students, beginners, and anyone passionate about game development.
 
-> **[🎮 Apply Now — Online Form](https://omnitender-systems.github.io/jimmythehat-volunteers/apply.html)**  
+> **[ðŸŽ® Apply Now â€” Online Form](https://omnitender-systems.github.io/jimmythehat-volunteers/apply.html)**  
 > Or open a [volunteer application issue](https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new?template=volunteer-application.yml).
 
 ---
@@ -12,9 +12,9 @@ We're looking for volunteer game developers to help with our racing game project
 ## Current Projects
 
 ### DrivingMeNuts
-A peanut food-truck racing game built with TypeScript.
+An idle business simulation game packed with legume humor, built with TypeScript.
 
-- **Genre:** Racing/driving game
+- **Genre:** Idle Business Sim
 - **Tech Stack:** TypeScript
 - **Status:** In development
 - **Repository:** [DrivingMeNuts](https://github.com/OmniTender-Systems/DrivingMeNuts)
@@ -23,7 +23,7 @@ A peanut food-truck racing game built with TypeScript.
 
 ## How to Contribute
 
-New volunteer? Follow the **[Contribution Workflow](docs/CONTRIBUTION_WORKFLOW.md)** —
+New volunteer? Follow the **[Contribution Workflow](docs/CONTRIBUTION_WORKFLOW.md)** â€”
 it walks you from application to your first merged pull request.
 
 Working your **first PR right now?** Use the tickable **[First-PR Walkthrough](docs/FIRST_PR_WALKTHROUGH.md)**
@@ -186,3 +186,4 @@ All contributions are made under the project's open source license. See individu
 ---
 
 **Ready to apply?** [Create an Issue](https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new/choose)
+
