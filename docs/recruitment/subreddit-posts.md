@@ -34,8 +34,8 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 > 
 > *This is a volunteer/educational opportunity designed to help you build a portfolio and get real-world team experience. We can provide documentation for school credit.*
 > 
-> * **Apply here:** https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
-> * **Project Preview Repo:** https://github.com/subtiliorars-sys/DrivingMeNuts---Preview
+> * **Apply here:** https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
+> * **Project Preview Repo:** https://github.com/OmniTender-Systems/DrivingMeNuts---Preview
 > 
 > Feel free to reply here or ask any questions!
 
@@ -70,10 +70,10 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 >
 > ### 📝 How to Apply
 > Simply apply via our GitHub application template:
-> 👉 https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
+> 👉 https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
 >
 > Check out our organization page to learn more about our workflow:
-> 🔗 https://github.com/subtiliorars-sys/jimmythehat-volunteers
+> 🔗 https://github.com/OmniTender-Systems/jimmythehat-volunteers
 >
 > Got questions? Drop a comment below, and we'll get right back to you!
 
@@ -103,10 +103,10 @@ Copy the relevant post, tweak anything in `[brackets]`, and paste into the named
 >
 > ### How to Apply:
 > We process all volunteer applications through our GitHub organization:
-> 👉 Apply Here: https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
+> 👉 Apply Here: https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new?template=volunteer-application.yml
 >
 > Check out the repository for more details:
-> 🔗 https://github.com/subtiliorars-sys/jimmythehat-volunteers
+> 🔗 https://github.com/OmniTender-Systems/jimmythehat-volunteers
 >
 > Thanks for reading! We look forward to seeing your application.
 

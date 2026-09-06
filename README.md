@@ -4,8 +4,8 @@
 
 We're looking for volunteer game developers to help with our racing game project. Perfect for students, beginners, and anyone passionate about game development.
 
-> **[🎮 Apply Now — Online Form](https://subtiliorars-sys.github.io/jimmythehat-volunteers/apply.html)**  
-> Or open a [volunteer application issue](https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new?template=volunteer-application.yml).
+> **[🎮 Apply Now — Online Form](https://omnitender-systems.github.io/jimmythehat-volunteers/apply.html)**  
+> Or open a [volunteer application issue](https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new?template=volunteer-application.yml).
 
 ---
 
@@ -17,7 +17,7 @@ A peanut food-truck racing game built with TypeScript.
 - **Genre:** Racing/driving game
 - **Tech Stack:** TypeScript
 - **Status:** In development
-- **Repository:** [DrivingMeNuts](https://github.com/subtiliorars-sys/DrivingMeNuts)
+- **Repository:** [DrivingMeNuts](https://github.com/OmniTender-Systems/DrivingMeNuts)
 
 ---
 
@@ -185,4 +185,4 @@ All contributions are made under the project's open source license. See individu
 
 ---
 
-**Ready to apply?** [Create an Issue](https://github.com/subtiliorars-sys/jimmythehat-volunteers/issues/new/choose)
+**Ready to apply?** [Create an Issue](https://github.com/OmniTender-Systems/jimmythehat-volunteers/issues/new/choose)
